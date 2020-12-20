@@ -7,8 +7,6 @@ header {
     margin: .5vw;
     font-size: 0;
     display: flex;
-    flex-wrap: wrap;
-    flex-direction: column;
     flex-flow: row wrap;
 }
 
